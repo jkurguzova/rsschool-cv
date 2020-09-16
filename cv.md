@@ -15,10 +15,10 @@ Currently I'm working at a big agro-holding as an export manager. But during Cov
 ***
 
 ## Skills
-* HTML
-* CSS
-* Basic JavaScript
-* Git
+* *HTML*
+* *CSS*
+* *Basic JavaScript*
+* *Git*
 
 ***
 
