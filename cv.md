@@ -23,7 +23,7 @@ Currently I'm working at a big agro-holding as an export manager. But during Cov
 ***
 
 ## Experience
-* Sedona (in progress)
+* *Sedona (in progress)*
 * Stepic [JavaScript для начинающих](https://stepik.org/cert/357654)
 * Stepic [Mindcraft. Основы HTML и CSS](https://stepik.org/course/52164)
 
