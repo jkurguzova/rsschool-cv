@@ -1,0 +1,39 @@
+# Evgenia Golovanova
+
+***
+
+## Contacts
+* Mob: +7-953-350-87-46
+* E-mail: jkurguzova@inbox.ru
+* GitHub: [@jkurguzova](https://github.com/jkurguzova)
+
+***
+
+## About me
+Currently I'm working at a big agro-holding as an export manager. But during Covid lockdown I started to pursue the idea of becoming a web-developer as I see a big potential of this sphere in the future. 
+
+***
+
+## Skills
+* HTML
+* CSS
+* Basic JavaScript
+* Git
+
+***
+
+## Experience
+* Sedona (in progress)
+* Stepic [JavaScript для начинающих](https://stepik.org/cert/357654)
+* Stepic [Mindcraft. Основы HTML и CSS](https://stepik.org/course/52164)
+
+***
+
+## Education
+* 2010-2014 – Higher School of Economics<br>Bachelor\`s degree in Economics 
+* 2014-2016 – Saint-Petersburg State University of Economics<br>Master\`s degree in International Economics
+
+***
+
+## Languages
+English B2 - Upper-Intermediate
